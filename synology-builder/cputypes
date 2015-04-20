@@ -1,0 +1,109 @@
+# This file is used to download your toolchain and source pair.
+# Uncomment your two (2) sources from the list below.
+# Pay close attention to only have two (2) url links uncommented.
+# So if you uncomment a different tool chain, comment out the one prior.
+# To build kernels, you need a (1) toolchain and a corresponding GPL source.
+
+# Don't touch anything else.
+
+
+# DSM 5.1 Tool Chains
+
+# Annapurna Alpine Linux 3.2.40
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Annapurna%20Alpine%20Linux%203.2.40/gcc464_glibc217_alpine-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Annapurna%20Alpine%20Linux%203.2.40/gcc472_glibc215_alpine-GPL.tgz/download
+
+# Marvell Armada XP Linux 3.2.40
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%20Armada%20XP%20Linux%203.2.40/gcc464_glibc215_hard_armada-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%20Armada%20XP%20Linux%203.2.40/gcc445_glibc211_softfp_armada370-GPL.tgz/download
+
+# PowerPC 853x Linux 2.6.32
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/PowerPC%20853x%20Linux%202.6.32/gcc4374_eglibc2874_qoriq-GPL.tgz/download
+
+# Marvell 88F628x Linux 2.6.32
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%2088F628x%20Linux%202.6.32/gcc464_glibc215_88f6281-GPL.tgz/download
+
+# Marvell Armada 375 Linux 3.2.40
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%20Armada%20375%20Linux%203.2.40/gcc464_glibc215_hard_armada375-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%20Armada%20375%20Linux%203.2.40/gcc464_glibc215_softfp_armada375-GPL.tgz/download
+
+# Mindspeed Comcerto 2000 Linux 3.2.40
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Mindspeed%20Comcerto%202000%20Linux%203.2.40/gcc464_glibc217_neon_comcerto-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Mindspeed%20Comcerto%202000%20Linux%203.2.40/gcc454_glibc214_soft_comcerto-GPL.tgz/download
+
+# Marvell Armada 370 Linux 3.2.40
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%20Armada%20370%20Linux%203.2.40/gcc464_glibc215_hard_armada-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Marvell%20Armada%20370%20Linux%203.2.40/gcc445_glibc211_softfp_armada370-GPL.tgz/download
+
+# PowerPC QorIQ Linux 2.6.32
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/PowerPC%20QorIQ%20Linux%202.6.32/gcc4374_eglibc2874_qoriq-GPL.tgz/download
+
+# Intel x86 Linux 3.2.40 (Pineview)
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Pineview%29/gcc473_glibc217_x86_64-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Pineview%29/gcc463_glibc213_i686-GPL.tgz/download
+
+# Intel x86 Linux 3.2.40 (Evansport)
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Evansport%29/gcc463_glibc213_i686_evansport-GPL.tgz/download
+
+# Intel x86 Linux 3.2.40 (Cedarview)
+http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Cedarview%29/gcc473_glibc217_x86_64_cedarview-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Cedarview%29/gcc463_glibc213_i686_cedarview-GPL.tgz/download
+
+# Intel x86 Linux 3.2.40 (Bromolow)
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Bromolow%29/gcc473_glibc217_x86_64_bromolow-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Bromolow%29/gcc463_glibc213_i686_bromolow-GPL.tgz/download
+
+# Intel x86 Linux 3.2.40 (Avoton)
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Avoton%29/gcc473_glibc217_x86_64_avoton-GPL.tgz/download
+#http://sourceforge.net/projects/dsgpl/files/DSM%205.1%20Tool%20Chains/Intel%20x86%20Linux%203.2.40%20%28Avoton%29/gcc463_glibc213_i686_avoton-GPL.tgz/download
+
+
+# Downloader Options for Tool Chain
+	file-allocation=none
+	max-connection-per-server=3
+
+
+# Synology NAS GPL Source - 5004 Branch
+
+# Marvell Armada XP
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-armada375.tbz/download
+
+# Annapurna Alpine Linux
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-armadaxp.tbz/download
+
+# PowerPC 853x
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-853x.tbz/download
+
+# Marvell 88F628x
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-6281.tbz/download
+
+# Marvell Armada 375
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-armada375.tbz/download
+
+# Mindspeed Comcerto 2000
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-comcerto2k.tbz/download
+
+# Marvell Armada 370
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-armada370.tbz/download
+
+# PowerPC QorIQ
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-qoriq.tbz/download
+
+# Intel x86 (Pineview)
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-x64.tbz/download
+
+# Intel x86 (Evansport)
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-evansport.tbz/download
+
+# Intel x86 (Cedarview)
+http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-cedarview.tbz/download
+
+# Intel x86 (Bromolow)
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-bromolow.tbz/download
+
+# Intel x86 (Avoton)
+#http://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/5004branch/synogpl-5004-avoton.tbz/download
+
+# Downloader Options for Source
+	file-allocation=none
+	max-connection-per-server=6
